@@ -1,0 +1,26 @@
+h2 {
+    text-align: center;
+    margin: auto;
+}
+body {
+    background-image: linear-gradient(to right,white,grey);
+    color: black;
+    font-family:'Open Sans', sans-serif;
+    font-weight: bold;
+    /* font-family: 'Playfair', serif; */
+}
+.p1 {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+.image{
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.p2{
+    text-align: center;
+    display: block;
+    color: black;
+}
